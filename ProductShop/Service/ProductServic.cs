@@ -29,7 +29,6 @@ namespace ProductShop.Service
             ProductDto productDto = new ProductDto()
             {
                 name = product.name,
-                image = product.image,
                 price = product.price,
                 typePrice = product.typePrice,
                 discountAmount = product.discountAmount,

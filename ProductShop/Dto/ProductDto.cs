@@ -9,10 +9,7 @@ namespace ProductShop.Dto
 
         [Required]
         public string name { get; set; }
-
-        [Required]
-        public string image { get; set; }
-
+        
         [Required]
         public float price { get; set; }
 

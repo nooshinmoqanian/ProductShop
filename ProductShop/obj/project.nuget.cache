@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M+uObqFWBzPWzLZsILrAOPQS6+LF+1zQpCuM7k2vwXQL6GE2g0InHVrXp6r3XbeiAJ6tU/BsdLz/+I3J4SofEA==",
+  "dgSpecHash": "mgaolX9eh7q2kw4JD+zOAllAm+aQ/DNjDHWT5wz429DTx1NpF+wVmjvvRUXc/UgvodYyTNO/BO7ztyQd6Ikgyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nooshin\\source\\repos\\ProductShop\\ProductShop\\ProductShop.csproj",
+  "projectFilePath": "C:\\Users\\Nooshin\\ProductShop\\ProductShop\\ProductShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nooshin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Nooshin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
